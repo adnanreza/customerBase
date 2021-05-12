@@ -1,0 +1,8 @@
+{
+  "name": "customerBase",
+  "version": "1.0.0",
+  "description": "GraphQL server",
+  "main": "server.js",
+  "author": "Adnan Reza",
+  "license": "MIT"
+}
